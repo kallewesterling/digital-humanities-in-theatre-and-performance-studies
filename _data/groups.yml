@@ -1,0 +1,6 @@
+- group-id: 1
+  related sites:
+    - id: 2
+      relation: The same site ported into a site built in Wordpress for legacy purposes.
+    - id: 3
+      relation: Revised and upgraded version of the data from this site

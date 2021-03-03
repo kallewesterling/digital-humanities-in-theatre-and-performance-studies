@@ -1,0 +1,43 @@
+- id: 1
+  group-id: 1
+  title: The Juba Project
+  subtitle: Early Blackface Minstrelsy in Britain 1842–1852
+  url: https://www.utm.utoronto.ca/~w3minstr/
+  lifespan:
+    start: unknown
+    end: 2006
+    comment: 
+  technologies:
+    - Custom HTML
+    - Flash
+  features:
+    - microhistorical analysis
+  texts:
+    - description: introduction
+      text: The Juba Project, named after early minstrelsy's most famous and most unusual early practitioner, explores the phenomenon of white performers in blackface in Britain, both from a historical and a dramaturgical perspective. The website features a database that will allow you to trace the movements of performers around Britain from 1842-1852, a closer examination of some of the documents and one group of performers, a performance-practice site that will explore the responses of contemporary artists to the documents and traditions of minstrelsy, and information about a book of original essays on minstrelsy's traditions and legacy, edited by Juba Project Director Stephen Johnson.
+      source: https://www.utm.utoronto.ca/~w3minstr/index.html
+      altered-text: true
+  funding:
+    - Social Sciences and Humanities Research Council of Canada
+    - The University of Toronto
+  
+- id: 2
+  title: The JUBA Project
+  subtitle: Early Blackface Minstrelsy in Britain 1842-1852
+  url: https://thejubaproject.wordpress.com
+  technologies:
+    - Wordpress
+
+- id: 3
+  title: The JUBA Project
+  subtitle: Early Blackface Minstrelsy in Britain 1842-1852
+  texts:
+    - description: introduction
+      text: This is essentially the entire backbone data structure of the Juba Project's earlier sites, componded into one site for legacy purposes. This way, the data is saved in a format that will last for some time.
+  funding:
+    - University of Toronto's Robarts Library
+  technologies:
+    - jQuery
+    - Bootstrap 3
+    - Colorbox 1.6.4
+    - Drupal

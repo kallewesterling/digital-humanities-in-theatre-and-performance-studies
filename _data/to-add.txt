@@ -1,0 +1,324 @@
+---- PROJECTS
+What counts as a project? It needs to be heuristic and _do something_ with the data itself.
+
+Otherwise, it is a digital collection or a database, and there are plenty of those in the field of theatre and performance. Nic Leonhardt has described this as work done with the intention of preservation and not in conjunction with scholarly work. On a higher level than the collections are also coordination of such collections, in portals, etc.
+
+Leonhardt even lays these out in three consecutive phases:
+1. the _operational_ first stage, where digital technology is applied to archival--textual, or visual--material in order to digitize it.
+2. the _quantitative_ second stage, where digital technology finds ways to systematically process the material digitized in the first stage.
+3. the _qualitative_ third stage, where digital technology is used in more mediated and knowledge-creating, exploratory ways
+
+
+Sources:
+- Leonhardt = "'Global Clicks through Theatrescapes': Digital Humanities meet Theatrical Pasts," talk, CREATE Salon, Amsterdam, March 14, 2017
+
+
+# Abbey Theatre, 1904: Digitally reconstructing Dublin's original Abbey Theatre
+https://blog.oldabbeytheatre.net
+
+The Abbey Theatre, 1904, created a digital model of the old Abbey Theatre as it was on its opening night, 27th December 1904. This new, three-dimensional model is opening up fresh ways of exploring the stories and histories of the early years of Ireland’s National Theatre.
+
+2010-2011
+
+tech:
+- Wordpress
+
+
+Related site: Abbey Theatre Minute Books
+
+
+# Abbey Theatre Minute Books
+http://www.nuigalway.ie/abbeytheatreminutebooks/
+
+Really a digital collection and not so much a project....
+
+
+# Drama in the Delta
+http://dramainthedelta.org (Defunct)
+
+NEH funded
+
+Game prototype... website for the game...
+
+
+# Intermedia Performance Studio
+http://ips.buffalo.edu
+
+The Intermedia Performance Studio (IPS) is a collaborative initiative housed at the University at Buffalo/State University of New York (UB) including researchers, scientists, and artists from the departments of Media Study, Theatre & Dance, and Computer Science and Engineering. The IPS was designed to create intermedia experiments in virtual and mixed reality, digital technology, computer science and live performance.
+We are particularly interested in exploring how digital technology and virtual environments can affect interpersonal dynamics (i.e., individual interactions with virtual actors and intelligent agents), as well as the communal relationships that are traditionally a part of live performance. The studio aims to make low-cost virtual reality systems available to local performers and audiences, while also developing new tools to expand the studio as a flexible and dynamic testing ground for the development of new creative projects, equipment, and interfaces.
+
+2009-10?
+
+tech:
+- Wordpress
+
+
+
+# Simulated Environment for Theatre
+
+The Simulated Environment for Theatre (SET) is a digital system for navigating between theatrical text and performance. Its combined 2D-3D-4D interface can operate as a sketchbook for planning performances, a rehearsal log, a promptbook, a show report, a performance reconstruction, an edition, or a virtual performance in itself. Designed and developed by a multidisciplinary team of researchers, SET uses the Unity game engine to allow users to create digital texts and performance environments and play them back simultaneously. Version 2, which we expect to release in May ’12, permits users to annotate all elements of the environment with text or images. 
+
+Funding:
+- Social Sciences and Humanities Council of Canada (SSHRC) Standard Research Grant 2011-14 (PI).
+- SSHRC Image, Text, Sound and Technology Grant 2008-10 (PI).
+
+
+
+
+
+# Visualizing Broadway
+https://visualizingbroadway.com
+
+Focusing on data about Broadway productions, Visualizing Broadway investigates theater as a field of cultural production. This site includes information about publications and presentations, media coverage, and a sample of unpublished work involving digital humanities and the history of the performing arts.
+
+Funding:
+Digital Arts & Humanities at Harvard
+Lasky-Barajas Dean's Innovation Fund for Digital Arts and Humanities
+
+Data predominantly from the Broadway League's Internet Broadway Database and PlaybillVault
+
+
+# Visualizing the Vilna Troupe
+http://vilnatroupe.com
+
+The Vilna Troupe was an experimental Yiddish theater company between 1915 and 1936. The 290 artists associated with the Vilna Troupe formed an interconnected network that stretched across five continents. This visualization shows how these Yiddish theater artists were connected to each other and to other artists whom they encountered.
+
+
+Funding:
+- PSC-CUNY Award, jointly funded by the Professional Staff Congress and the City University of New York
+
+Data: Data was primarily compiled from Vilna Troupe programs and theatrical ephemera found in the archival collections of individual troupe members at the YIVO Institute for Jewish Research, the Harvard Library Judaica Division, the Billy Rose Theater Division of the New York Public Library, the Columbia University Jewish Studies Collection, and the Dorot Jewish Division of the New York Public Library. Data was also collected from Zalmen Zylbercweig’s 7-volume Leksikon fun yidishn teater (Lexicon of the Yiddish Theater), the Internet Movie Database, the Internet Broadway Database, and from interviews I conducted with Vilna Troupe descendants.
+
+
+Related sites:
+- http://www.debracaplan.com/vilna-troupe-maps.html (map files KMZ/KML with touring information)
+
+
+
+# The Comédie-Française Registers Project
+https://www.cfregisters.org/en/
+
+From 1680 until 1791, only one theater troupe in Paris was allowed to perform the plays of Molière, Corneille, Racine, Voltaire, Beaumarchais, and every other French-language playwright. This troupe, the Comédie-Française, played the works of these authors over 34,000 times in this period. Remarkably, the troupe kept detailed records of their box office receipts for every single one of those performances. These daily receipt registers, as well as the data they contain, are now available online via the Comédie-Française Registers Project.
+
+
+# New York Philharmonic Performance History
+https://github.com/nyphilarchive/PerformanceHistory
+
+
+
+# The Adelphi Theatre Calendar
+https://www.umass.edu/AdelphiTheatreCalendar/
+
+
+# AusStage: The Australian Live Performance Database
+https://www.ausstage.edu.au
+
+
+# IbsenStage: The Ibsen Stage Performance Database
+https://ibsenstage.hf.uio.no/
+
+
+
+# Dunham’s Data: Katherine Dunham and Digital Methods for Dance Historical Inquiry
+https://www.dunhamsdata.org
+
+ under the direction of Kate Elswit (PI, University of London, Royal Central School of Speech and Drama) and Harmony Bench (CI, The Ohio State University). Through this project, we explore the kinds of questions and problems that make the analysis and visualization of data meaningful for dance history. We do so through the case study of choreographer Katherine Dunham, manually cataloguing a daily itinerary of Dunham’s touring and travel from the 1930s-60s, the dancers, drummers, and singers in her employ during that time, and the repertory they performed. These curated datasets provide new means to understand the relationships between thousands of locations, and hundreds of performers and pieces across the decades of Dunham's career, and ultimately elaborate how movement moves. The core project team is joined by UK industry partners One Dance UK’s Dance of the African Diaspora and the Victoria & Albert Museum, as well as international knowledge exchange partnerships with digital projects at Ohio State (US), Ludwig Maximilians Universität Munich (Germany), and the University of New South Wales (Australia).
+
+Funding:
+- The Arts and Humanities Research Council
+
+
+
+# Philippine Performance Archive
+https://philippineperformance-repository.upd.edu.ph
+
+Related:
+the Philippine Performance Archive Blog: blog.palabas.org
+
+
+
+
+# Moving Bodies, Moving Culture
+https://movingbodiesmovingculture.wordpress.com/
+
+
+Related site: Dunham's Data
+
+Related site: moving-bodies-moving-culture [https://github.com/kelswit/moving-bodies-moving-culture]
+
+
+
+
+# The Digital Yiddish Theater Project
+https://web.uwm.edu/yiddish-stage/
+
+A research consortium dedicated to the application of digital humanities tools and methodologies to foster the study and preservation of Yiddish theater. Founded in 2012 by Debra Caplan (Baruch College, CUNY) and Joel Berkowitz (University of Wisconsin-Milwaukee), the DYTP is a team of fifteen academics and librarians from the United States, Canada, England, and the Netherlands who are among the leading scholars of Yiddish theater and drama and related fields, including Jewish music and European Jewish history. 
+
+
+Related sites:
+Plotting Yiddish Drama - https://web.uwm.edu/yiddish-stage/plotting-yiddish-drama
+    A searchable, continually expanding database of detailed plot synopses of Yiddish plays.
+Encyclopedia of the Yiddish Theatre - https://web.uwm.edu/yiddish-stage/encyclopedia
+    The previously unpublished galleys of Volume 7 of Zalmen Zylbercweig’s Leksikon fun yidishn teater, a seminal reference work on the history of the Yiddish
+
+
+
+# Global Shakespeares Video & Performance Archive
+https://globalshakespeares.mit.edu/about/
+
+
+The Global Shakespeares Video & Performance Archive is a collaborative project providing online access to performances of Shakespeare from many parts of the world as well as essays and metadata provided by scholars and educators in the field. The idea that Shakespeare is a global author has taken many forms since the building of the Globe playhouse. Our work honors the fact and demonstrates the diversity of the world-wide reception and production of Shakespeare’s plays in ways that we hope will nourish the remarkable array of new forms of cultural exchange that the digital age has made possible. Global Shakespeares is a participatory multi-centric networked model that offers wide access to international performances that are changing how we understand Shakespeare’s plays and the world.
+Global Shakespeares provides global, regional, and national portals to Shakespeare productions within a federated structure. As the archive grows, you will be able to view and study productions either in an environment focused on one area—Shakespeare Performance in Asia is the first of these—or in the context of world-wide Shakespeare production. The archive is a work in progress and currently includes a catalogue of over 300 productions.
+This archive is intended to promote cross-cultural understanding and serve as a core resource for students, teachers, and researchers. We invite you to participate in this international research and educational online community.
+
+
+# American Theatre Archive Project
+https://www.americantheatrearchiveproject.org
+
+The American Theatre Archive Project (ATAP), created in 2009, is an initiative of the American Society for Theatre Research (ASTR) that advocates for the preservation of American theatrical legacy. Specifically, ATAP provides resources to assist living theatre companies in managing their current and archival records.  
+
+Purpose was to address a concern among members that many records of 20th- and 21st-century American theatrical activity were being lost. While some theatre companies – typically larger, established companies – maintained their archives onsite with a staff archivist, and some companies have developed a relationship with an archival repository to preserve and provide access to their records, the vast majority of companies’ records were, and still are, maintained somewhat unsystematically.
+
+
+Susan Brady and Helice Koffler, "The American Theatre Archive Project: Carrying the Record of the Past to the Future"
+
+
+Funding: 
+- The Brockett Center for Theatre History (Austin)
+- 4Culture (Northwest)
+- Friends of the University of Washington Libraries (Northwest)
+- Lucille Lortel Foundation (New York City)
+
+
+# Music Theatre Online: A Digital Archive for Music Theatre Scholarship
+http://dougreside.com/mto/
+
+Music Theatre Online, based at the Maryland Institute for Technology in the Humanities, is a digital archive of texts, images, video, and audio files relating to musical theater. The best printed editions of musical theater texts cannot fully provide the experience of simultaneous expression of verbal, musical, and terpsichorean languages so necessary to fully understand the art form. Using the multimedia capabilities of the modern web browser, we hope to create a better framework for studying these important works of drama.
+
+How to use: https://vimeo.com/6867241
+
+tech:
+- Flash & HTML
+- Yahoo! User Interface Library
+
+Funding
+- Digital Humanities Startup Grant from the National Endowment for the Humanities
+
+
+
+# Ensemble
+http://ensemble.nypl.org (Defunct)
+
+Ensemble is a website where users are able to assist the Billy Rose Theatre Division at the New York Public Library in the effort of transcribing historical theatre programs. It has a clear structure, and guides the user to transcribe each bit of the program into the correct categories, to build a database which presumably will be accessible to scholars and students in the future as well (?). Thanks to @dougreside (project curator) for linking me to the project.
+
+
+
+# Libretto
+https://www.nypl.org/blog/2014/02/11/announcing-libretto (Defunct)
+
+Libretto is an open-source, reader which makes the user able to read musicals on Android devices, and, when available, hear music or see sheet music for the musical. The app currently comes bundled with a draft of the 1866 musical, The Black Crook with book by Charles M. Barras, and music and songs that were primarily adaptations for the musical. The app can be downloaded from Google Play. Thanks to @dougreside for linking me to the project.
+
+
+# Cuban Theater Digital Archive
+http://ctda.library.miami.edu/
+
+The Cuban Theater Digital Archive (CTDA) is a resource for research, teaching and learning in Cuban theater and performance as well as in related fields; a community repository for important Cuban theatrical materials; and a forum to foster scholarly communication in this field. The Digital Archive includes materials digitized and filmed in Cuba and outside the island as well as resources and information related to Cuban theater, with a special focus on theater produced by Cuban communities in the United States.
+
+It is managed as a digital humanities partnership between the University of Miami College of Arts and Sciences and the Libraries, in cooperation with Cuba's National Council for the Performing Arts and the Center for Scenic Design Studies.
+
+2011-2018
+
+Funding:
+- Andrew W. Mellon Foundation
+
+
+
+# Brooklyn Drag Archive
+http://brooklyndragarchive.org
+
+
+The Brooklyn Drag Archive is an attempt to archive and conserve performance content from this specific culture, an “online space that’s hospitable to drag and created by drag performers and their admirers.”
+
+
+Our intention for creating the Brooklyn Drag Archive is to get a glimpse of a particular historical moment in New York City drag culture.  In the current iteration of this project, it is bounded by this year and this geographical area (Brooklyn, New York City).
+
+The internet has historically been a safe space for marginalized people but that hasn’t been true for drag culture – In our investigations we have discovered that a serious tension exists between drag arts culture and dominant forms of social media, even as drag performers continue and use and adapt social media to promote and connect.
+
+Social media creates an illusion of archiving and conserving performance content, when, in fact, the content is not owned by the community or conserved for future reference in a meaningful way. We hope to have an intentional and thoughtful future resource for the community as it evolves. We seek to create an online space that is welcoming, tolerant and specifically purposed for and inviting of Drag (queer) culture; an online space that’s hospitable to drag and created by drag performers and their admirers.
+
+At every stage of this process, we have sought to be inclusive of community voices and experiences and we hope to continue a tradition of queer collaboration in all of our work.
+
+
+
+
+# DEx: A Database of Dramatic Extracts
+
+DEx is an online, searchable database of extracts transcribed from seventeenth-century manuscripts. DEx aims to provide much-needed information to textual editors, literary scholars, and cultural historians interested in theater history, audience reception, early modern print and manuscript culture, and the history of reading.
+
+Funding:
+- Iter: Gateway to the Middle Ages and Renaissance
+- Canada Research Chair Program / Social Sciences and Research Council of Canada
+- Banting Postdoctoral Fellowship Program / Social Sciences and Research Council of Canada
+- University of Victoria Electronic Textual Cultures Lab
+- Texas A&M University Department of English
+- Texas Center for Applied Technology
+
+
+
+
+
+
+
+# Performance Artist Database
+http://padb.net
+
+Performance Artist Database is a project to study the development of artistic movements and mediums through the use of quantitative network analysis. By arranging artists and their interactions into an interconnected network we can discover new or overlooked narratives. This site organizes and provides an interface to explore that data. 
+
+A second facet of the project is to rethink how we organize and recall ephemeral art history. Web technology allows a Microhistory approach where each event is singular and rich, but can be recalled through a larger temporal, geographic and social network. 
+
+The final aspect of this project is an experiment in linked data. The structure of the system is organized internally based on linked data practices enabling it to interconnect and share data with external sources. 
+
+
+# Theatrescapes Research Tool
+https://www.theatrescapes.gwi.uni-muenchen.de
+
+From website:
+- The historiography of theatre and media history dedicated to analysing its objects as phenomena of global circulation and exchange relies on a relational and multi-dimensional perspective which can only profit from established paradigms and recent innovations in Digital Humanities (DH) and Historical Network Analysis.
+
+From Nic's talk:
+- Combines questions of global history and transnational theory with the paradigm of Digital Humanities (DH) from an interdisciplinary and collaborative perspective.
+
+
+From coursera:
+- The Theatrescapes research tool combines an interdisciplinary and collaborative approach to link questions of global history and transnational theory with the methods and tools of Digital Humanities. It consists of a relational database on the basis of geo- and chronoreferencing. With aid of this database, one will be able to better collect, analyse and map the global exchanges and trans-local dynamics of theatre. We are constantly expanding our collection of data on impresarios, venues, touring troupes, and other theatrical actants. The database is conceived both as an empirical research tool and as a means of reflection on historiographical methods for theatre historians interested in theatre as a trans-local mediator, global connector, and transcultural institution. The project is designed as a point of departure for the long-term establishment of Digital Humanities in the fields of theatre studies, art history, as well as history at LMU and has received an LMUexcellent start-up grant to develop tools and methods for academic research and teaching. It was led by our colleague Dr. Nic Leonhardt and designed by Tobias Englmeier. 
+
+
+My comment:
+Problem with a project like this is that it takes a long time to develop a heuristic tool of this size that is usable. So: We have yet to see something that is useful beyond the individual research project. Such projects, still, it might be added, in our field, almost exclusively result in traditional monographies or anthologies of text.
+    - A foundational problem is that the intention was to create a relational database with geographically and chronologically tagged data. However, it was not open sourced.
+
+
+Related website:
+- Theatrescapes blog - https://mappinggth.hypotheses.org/
+
+
+
+--- COURSE WEBSITES....
+
+# The Laramie Project (Duke, 2011)
+https://sites.duke.edu/dukeinlaramie/
+
+Site for Duke University's 2011 production
+
+
+--- READINGS
+
+- Jonathan Bollen & Julie Holledge, "Hidden Dramas: Cartographic Revelations in the World of Theatre Studies" [10.1179/1743277411Y.0000000026]
+- Jonathan Bollen, "Data Models for Theatre Research: People, Places, and Performance" [10.1353/tj.2016.0109]
+- Jonathan Bollen, "Visualizing the Entrepreneurial Networks of International Entertainment: The Dalrays Touring Beyond the Tivoli, 1956-66" (2021)
+- "Mapping Movement on the Move: Dance Touring and Digital Methods"
+
+
+
+------ DIGITAL COLLECTIONS
+
